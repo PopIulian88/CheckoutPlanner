@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface WishbookRepository extends JpaRepository<Wishbook, Long> {
-
+    void deleteByEmployeeIdAndDate(String employeeId, String date);
 }
