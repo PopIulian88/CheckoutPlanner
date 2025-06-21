@@ -48,15 +48,15 @@ To demonstrate the REST APIs, we use a Flutter application with two basic screen
 The first screen displays the completed schedule, including the date and the employees assigned to different shifts.
 
 <p align="center">
-  <img src="../checkoutplanner/assetsRM/Schedule_1.png" alt="Schedule photo" width="45%" />
-  <img src="../checkoutplanner/assetsRM/Schedule_2.png" width="45%" />
+  <img src="assetsRM/Schedule_1.png" alt="Schedule photo" width="45%" />
+  <img src="assetsRM/Schedule_2.png" width="45%" />
 </p>
 
 On the second screen, we can see the employees' wishbook, where the manager can approve or deny their requests. In addition, the manager can automatically schedule an employee for a specific day by simply pressing *PRESS TO AUTO SCHEDULE*.
 
 <p align="center">
-  <img src="../checkoutplanner/assetsRM/Wishbook_1.png" alt="Schedule photo" width="45%" />
-  <img src="../checkoutplanner/assetsRM/Wishbook_2.png" width="45%" />
+  <img src="assetsRM/Wishbook_1.png" alt="Schedule photo" width="45%" />
+  <img src="assetsRM/Wishbook_2.png" width="45%" />
 </p>
 
 ## How to run 
